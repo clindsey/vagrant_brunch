@@ -19,3 +19,4 @@ nvm alias default v0.10.7
 # npm packages
 npm install -g brunch
 npm install -g scaffolt
+npm install -g bower
